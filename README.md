@@ -15,6 +15,13 @@ A simple desktop GUI application built with Python Tkinter that calculates disco
 - Simple and clean GUI interface
 
 ---
+## Outputs
+
+### Image 1
+![Output 1](image.png)
+
+### Image 2
+![Output 2](image%20(1).png)
 
 ## 🛠️ Tech Stack
 - Python 3
